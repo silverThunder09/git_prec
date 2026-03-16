@@ -1,0 +1,54 @@
+{
+  "id": "your-id",
+  "name": "홍길동",
+  "subName": "풀스택 개발자",
+  "profileImage": "image/your-profile.png",
+  "introduction": {
+    "quote": "자기소개 한 줄",
+    "detail": "자기소개 상세 내용"
+  },
+  "info": {
+    "description": "간단한 소개",
+    "birthday": "2000.01.01",
+    "location": "서울시 강남구",
+    "email": "your.email@example.com",
+    "phone": "010-1234-5678"
+  },
+  "strengths": ["의사소통", "도전 정신", "리더십"],
+  "skills": [
+    { "name": "HTML", "progress": 10 },
+    { "name": "CSS", "progress": 10 },
+    { "name": "JavaScript", "progress": 15 }
+  ],
+  "licenses": ["정보처리기사"],
+  "education": [
+    {
+      "name": "스파르타 대학교",
+      "period": "2016.03.02 ~ 2020.02.20",
+      "gpa": "4.0",
+      "location": "서울시 강남구"
+    }
+  ],
+  "experience": [
+    {
+      "period": "6개월",
+      "company": "회사명",
+      "term": "2023.01~2023.06",
+      "team": "개발팀, 개발자",
+      "task": "주요 업무",
+      "project": {
+        "name": "프로젝트명",
+        "term": "2023.02~2023.05",
+        "detail": "프로젝트 상세 설명"
+      }
+    }
+  ],
+  "projects": [
+    {
+      "title": "프로젝트명",
+      "description": "프로젝트 설명",
+      "image": "image/project-image.png",
+      "link": "project.html"
+    }
+  ]
+}
